@@ -29,7 +29,8 @@
     "main_menu": [
         {
             "title": "Store",
-            "url": "/store"
+            "url": "/store",
+            "arrow": true
         },
         {
             "title": "About",
