@@ -30,7 +30,7 @@
         {
             "title": "Store",
             "url": "/store",
-            "arrow": true
+            "arrow": false
         },
         {
             "title": "About",
